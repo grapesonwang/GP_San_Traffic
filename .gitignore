@@ -1,0 +1,8 @@
+# So far R files are not uploaded
+*.R
+*.txt
+# Papers are not uploaded
+
+/papper*
+/related*
+/Santander_*
